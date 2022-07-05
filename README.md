@@ -27,3 +27,4 @@ logic reasoning related progress:
 7. Mathematical Languate processing: https://arxiv.org/abs/1501.04346
 8. MathDQN, https://dl.acm.org/doi/pdf/10.5555/3504035.3504715
 9. Mathematical formula understanding, https://arxiv.org/pdf/2105.00377.pdf
+10. Math word Problem solving, https://aclanthology.org/2021.acl-long.455.pdf
