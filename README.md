@@ -17,10 +17,10 @@ logic reasoning related progress:
 
 
 
-
 参考资料:
 1. https://mp.weixin.qq.com/s/7wqEkqgFGpVlQiJ_hnPCyw
 2. https://mp.weixin.qq.com/s/-HVfoVjMKLsdwdyYHQoh2g
 3. https://mp.weixin.qq.com/s/ZFpVpi7BsJME6uXi_2IcrQ
 4. https://www.jiqizhixin.com/articles/2020-07-01-4
 5. https://www.aminer.cn/
+6. A rule based engine: https://www.drools.org/
