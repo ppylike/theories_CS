@@ -24,3 +24,4 @@ logic reasoning related progress:
 4. https://www.jiqizhixin.com/articles/2020-07-01-4
 5. https://www.aminer.cn/
 6. A rule based engine: https://www.drools.org/
+7. Mathematical Languate processing: https://arxiv.org/abs/1501.04346
