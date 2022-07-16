@@ -14,6 +14,8 @@ logic reasoning related progress:
 2. https://arxiv.org/pdf/2205.12615.pdf. [2].
 3. https://arxiv.org/pdf/2105.04165.pdf. [3].
 4. https://www.quantamagazine.org/symbolic-mathematics-finally-yields-to-neural-networks-20200520/ [4,5].
+5. https://arxiv.org/abs/2110.14168. openAI Math word Problem verifiers;
+6. https://arxiv.org/abs/2202.01344. openAI expert iteration for math problem;
 
 
 
